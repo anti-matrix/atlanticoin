@@ -1,0 +1,8 @@
+== KEYPAIR WALLET ==
+
+Wrote new keypair to /home/aryannigga/.config/solana/devnet-wallet.json
+
+pubkey: 8GeLYb6f2oQ2QPKXK2GrCJNSGUWqDRWP9F9ktpy3cKa7
+
+RECOVERY WORDS:
+loan kit woman right donor whisper term angle tool cupboard hamster differ
