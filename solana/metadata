@@ -1,0 +1,32 @@
+{
+    "name": "KaliDoge",
+    "symbol": "KDOGE",
+    "description": "The ultimate Kali Linux memecoin! 🐕‍🦺",
+    "image": "https://raw.githubusercontent.com/yourusername/kalidoge/main/logo.png",
+    "external_url": "https://yourwebsite.com",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Memecoin"
+        },
+        {
+            "trait_type": "Platform",
+            "value": "Solana"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/yourusername/kalidoge/main/logo.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "creators": [
+        {
+            "address": "YOUR_WALLET_ADDRESS_HERE",
+            "share": 100
+        }
+    ]
+}
