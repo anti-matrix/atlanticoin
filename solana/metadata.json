@@ -1,9 +1,9 @@
 {
-    "name": "KaliDoge",
-    "symbol": "KDOGE",
+    "name": "AtlantiCoin",
+    "symbol": "Atlantic_Spirit", 
     "description": "The ultimate Kali Linux memecoin! 🐕‍🦺",
-    "image": "https://raw.githubusercontent.com/yourusername/kalidoge/main/logo.png",
-    "external_url": "https://yourwebsite.com",
+    "image": "https://i.ibb.co/wFx4Vtd7/l-AHPp67-V-400x400.jpg",
+    "external_url": "x.com/AgartaNordeste",
     "attributes": [
         {
             "trait_type": "Category",
@@ -17,15 +17,15 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/yourusername/kalidoge/main/logo.png",
-                "type": "image/png"
+                "uri": "https://i.ibb.co/wFx4Vtd7/l-AHPp67-V-400x400.jpg",
+                "type": "image/jpg"
             }
         ],
         "category": "image"
     },
     "creators": [
         {
-            "address": "YOUR_WALLET_ADDRESS_HERE",
+            "address": "8GeLYb6f2oQ2QPKXK2GrCJNSGUWqDRWP9F9ktpy3cKa7",
             "share": 100
         }
     ]
