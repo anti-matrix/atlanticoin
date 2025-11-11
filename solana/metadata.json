@@ -1,9 +1,9 @@
 {
     "name": "AtlantiCoin",
-    "symbol": "AtlanticSpirit", 
+    "symbol": "AtlanticSpirit",
     "description": "Transcenda o Kenoma com a Atlantic Spirit e seja aristocrático com a AtlantiCoin!",
     "image": "https://i.ibb.co/wFx4Vtd7/l-AHPp67-V-400x400.jpg",
-    "external_url": "x.com/AgartaNordeste",
+    "external_url": "https://x.com/AgartaNordeste",
     "attributes": [
         {
             "trait_type": "Category",
@@ -12,13 +12,21 @@
         {
             "trait_type": "Platform",
             "value": "Solana"
+        },
+        {
+            "trait_type": "Language",
+            "value": "Portuguese"
+        },
+        {
+            "trait_type": "Philosophy",
+            "value": "Transcendence"
         }
     ],
     "properties": {
         "files": [
             {
                 "uri": "https://i.ibb.co/wFx4Vtd7/l-AHPp67-V-400x400.jpg",
-                "type": "image/jpg"
+                "type": "image/jpeg"
             }
         ],
         "category": "image"
